@@ -28,7 +28,7 @@ const HomePage: React.FC = () => {
         <div className="absolute inset-0 flex flex-col justify-center px-6 md:px-12">
           <div className="max-w-3xl">
             <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
-              Welcome to ECHO MUSIC
+              Welcome too ECHO MUSIC
             </h1>
             <p className="text-white/80 text-lg md:text-xl mb-6">
               Stream the latest music, discover new artists, and create your perfect playlist.
